@@ -1,0 +1,18 @@
+.inname, .inpass{
+    margin-bottom: 8px;
+    height: 40px;
+    border-radius: 8px;
+    padding-left: 4px;
+    
+}
+
+.loginbtn{
+    background: rgb(67, 67, 197);
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+p{
+    
+}
